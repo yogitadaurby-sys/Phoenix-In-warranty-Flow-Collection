@@ -3,7 +3,7 @@
 This repository is a demostration for POC for integrating postman with the github actions.The Test are written in Postman and they are executed on VM with the help of newman and newman-reporter-htmlextra.
 Github Actions will trigger the project execution on every push to the main branch.You can also execute project manually using workflow_disptach.The Project runs on schedule time with the help of the cron job.
 
-The HTML reports is archieved and kept in the artifact section for the team to download it. Along with that they can view reports directly from the github page : https://yogitadaurby-sys.github.io/Phoenix-In-warranty-Flow-Collection/
+The HTML reports is archieved and kept in the artifact section for the team to download it. Along with that they can view reports directly from the github page : https://yogitadaurby-sys.github.io/Phoenix-In-warranty-Flow-Collection/ .
 The latest report is mailed to the team member using GMAIL SMTP.
 
 ## About Me ##
